@@ -32,35 +32,6 @@
 
 ---
 
-## Evolution of Java
-
-- **1995:** Java 1.0 released  
-- **1997:** Java 1.1 introduced inner classes and JDBC  
-- **2004:** Java 5 introduced generics, annotations, and autoboxing  
-- **2014:** Java 8 introduced lambdas, streams, and new date/time API  
-- **2017:** Java 9 introduced modules and JShell  
-- **2021:** Java 17 LTS released with sealed classes and pattern matching  
-
----
-
-## Java Platforms Comparison
-
-| Platform | Purpose | Target Environment |
-|----------|---------|------------------|
-| Java SE  | Standard Edition | Desktop and server applications |
-| Java EE  | Enterprise Edition | Large-scale distributed systems |
-| Java ME  | Micro Edition | Embedded and mobile devices |
-
----
-
-## Java Architecture
-
-- **JDK (Java Development Kit):** Development tools including compiler, debugger, and documentation tools  
-- **JRE (Java Runtime Environment):** Runtime environment for executing Java applications  
-- **JVM (Java Virtual Machine):** Executes Java bytecode and ensures platform independence  
-
----
-
 ## Installation and Setup
 
 ### Windows Installation
